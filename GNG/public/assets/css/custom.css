@@ -1,0 +1,36 @@
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3VzdG9tLmNzcyIsInNvdXJjZXMiOlsiY3VzdG9tLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiJ9 */
+
+/*# sourceMappingURL=custom.css.map */
+a{
+    cursor: pointer !important;
+}
+
+.error{
+    color: red !important;
+}
+
+.nav-item .badge {
+    background-color: #FFEB3B;
+    color: #000;
+}
+
+.nav-item .active .badge {
+    background-color: rgba(255,255,255,0.25);
+    color: #000;
+}
+
+.nav-pills .nav-item .nav-link {
+    background-color: #f6f7fe;
+}
+.nav-pills .nav-item .active .nav-link {
+    color: #fff !important;
+}
+.nav-pills .nav-item .nav-link,.theme-orange .nav-pills .nav-link.active {
+    color: #000000 !important;
+}
+
+.nav-pills .nav-item .nav-link:hover {
+    background-color: #ffcd0f;
+    color: #000000;
+}
